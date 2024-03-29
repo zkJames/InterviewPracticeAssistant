@@ -1,4 +1,4 @@
-# -InterviewPracticeAssistant
+# InterviewPracticeAssistant
 A RAG project designed to provide technical interview exercises for programmers.
 
 ![image](https://github.com/zkJames/InterviewPracticeAssistant/assets/96822813/212ef786-7c2f-4006-b597-7e071515544b)
